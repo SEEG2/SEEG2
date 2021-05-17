@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @LegendPlay
-- 👀 I’m interested in video games and coding.
-- 🌱 I’m currently learning Java.
-- 💞️ I’m looking to collaborate on ...
-- 📫 You can reach me on Discord.
+Hi, I’m @LegendPlay
+I’m interested in video games and coding.
+I’m currently learning Java.
+You can reach me on Discord.
 
 <!---
 LegendPlay/LegendPlay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
